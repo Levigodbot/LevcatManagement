@@ -103,7 +103,7 @@ def is_gif(file):
     return DocumentAttributeAnimated() in getattr(file, "document", file).attributes
 
 __help__ = """
- *ᴀɴɪᴍᴇ ғɪɴᴅᴇʀ ʙʏ ᴀʟᴇxᴀ...*
+ *ᴀɴɪᴍᴇ ғɪɴᴅᴇʀ ʙʏ ʟᴇᴠᴄᴀᴛ...*
  - `/whatanime` Reply to picture or video.
 """
 
