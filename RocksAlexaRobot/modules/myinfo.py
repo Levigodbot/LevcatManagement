@@ -96,5 +96,5 @@ __help__ = """
  - `/myinfo` generate your own info.
 """
 
-__mod_name__ = "ℹ️ ᴍʏɪɴғᴏ"
+__mod_name__ = "ᴍʏɪɴғᴏ"
 
