@@ -102,4 +102,4 @@ def ReTrieveFile(input_file_name):
 
 
 
-__mod_name__ = "⚪ ʀᴇᴍᴏᴠᴇ ʙɢ"
+__mod_name__ = "ʀᴇᴍᴏᴠᴇ ʙɢ"
