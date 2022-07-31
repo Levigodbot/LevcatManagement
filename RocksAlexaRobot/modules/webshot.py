@@ -55,4 +55,4 @@ __help__ = """
  - `/webss website link` Get Screen Shots of any website .
 """
 
-__mod_name__ = "🕸️ ᴡᴇʙsʜᴏᴛ"
+__mod_name__ = "ᴡᴇʙsʜᴏᴛ"
