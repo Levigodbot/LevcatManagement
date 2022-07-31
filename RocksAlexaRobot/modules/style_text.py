@@ -330,7 +330,7 @@ __help__ = """
  ❍ `/text4`*:* reply to the text.
  ❍ `/text5`*:* reply to the text.
 """
-__mod_name__ = "🎇 sᴛʏʟᴇᴛᴇxᴛ"
+__mod_name__ = "sᴛʏʟᴇᴛᴇxᴛ"
 
 TEXT1_HANDLER = DisableAbleCommandHandler("text1", text1)
 TEXT2_HANDLER = DisableAbleCommandHandler("text2", text2)
