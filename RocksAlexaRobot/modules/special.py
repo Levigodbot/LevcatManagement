@@ -76,7 +76,7 @@ Make me send a message to a specific chat.
 @all [text] for tagall members.
 """
 
-__mod_name__ = "👻 sᴘᴇᴄɪᴀʟ"
+__mod_name__ = "sᴘᴇᴄɪᴀʟ"
 
 SNIPE_HANDLER = CommandHandler(
     "snipe",
