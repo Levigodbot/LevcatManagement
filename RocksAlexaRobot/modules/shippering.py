@@ -86,4 +86,4 @@ Couple maker 😁
 - `/couples`*:* make couples in your group
 """
 
-__mod_name__ = "👩‍❤️‍👨 ᴄᴏᴜᴘʟᴇs"
+__mod_name__ = "ᴄᴏᴜᴘʟᴇs"
