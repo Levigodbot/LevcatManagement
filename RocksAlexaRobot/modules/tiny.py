@@ -85,4 +85,4 @@ __help__ = """
  - `/tiny` <Only stickers>: converte any stickers into small size only stickers, Animation  stickers are not allowed.
 """
 
-__mod_name__ = "◾▪️ᴛɪɴʏ"
+__mod_name__ = "ᴛɪɴʏ"
