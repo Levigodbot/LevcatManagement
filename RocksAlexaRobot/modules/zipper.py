@@ -223,4 +223,4 @@ __help__ = """
  - `/zip` compress any file into zip
 """
 
-__mod_name__ = "🤐 ᴢɪᴘ"
+__mod_name__ = "ᴢɪᴘ"
