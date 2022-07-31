@@ -117,4 +117,4 @@ __help__ = """
  - `/country` Type country name and get info.
 """
 
-__mod_name__ = "🇵🇰 ᴄᴏᴜɴᴛʀʏ"
+__mod_name__ = "ᴄᴏᴜɴᴛʀʏ"
