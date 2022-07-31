@@ -123,4 +123,4 @@ __help__ = """
  - `/react` react on someone mesg
 """
 
-__mod_name__ = "🧟 ᴢᴏᴍʙɪᴇ"
+__mod_name__ = "ᴢᴏᴍʙɪᴇ"
