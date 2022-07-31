@@ -152,7 +152,7 @@ __help__ = """
 *Powered by Asad Ali*
 """
 
-__mod_name__ = "🤖 ᴄʜᴀᴛʙᴏᴛ"
+__mod_name__ = "ᴄʜᴀᴛʙᴏᴛ"
 
 
 CHATBOTK_HANDLER = CommandHandler("chatbot", kuki )
