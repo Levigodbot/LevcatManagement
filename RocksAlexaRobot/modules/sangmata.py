@@ -65,4 +65,4 @@ __help__ = """
  - `/sg` check previous detail of user.
 """
 
-__mod_name__ = "💳 sᴀɴɢᴍᴀᴛᴀ"
+__mod_name__ = "sᴀɴɢᴍᴀᴛᴀ"
